@@ -1,0 +1,69 @@
+#logo{
+    margin-right: 49.8px;
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 100.18px;
+    height: 30.57px;
+    margin-bottom: 20px;
+}
+.nav_ul li{
+    margin-bottom: 10px;
+   
+}
+.nav{
+    margin-left: 30px;
+    font-size: 22px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+
+}
+
+.nav_ul a{
+    color: royalblue;
+    
+}
+.active{
+    color: red !important  ;
+}
+
+
+.contactinf{
+    color: blue;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 20px;
+}
+span{
+    color: gray;
+}
+.main {
+    font-family: Arial, Helvetica;
+text-align: center;
+   
+}
+.allcontact{
+    font-size: 16px;
+}
+
+
+.facebook{
+    margin-left: 30px;
+    margin-right: 35.6px;
+    width: 14px;
+    height: 30px;
+    position: relative;
+    top: 314px;
+
+}
+#line{
+    
+    margin-right: 30.2px;
+    height: 27px;
+    position: relative;
+    top: 314px;
+
+}
+.youtube{
+    position: relative;
+    top: 314px;
+    width: 24.8px;
+    height: 30px
+}
